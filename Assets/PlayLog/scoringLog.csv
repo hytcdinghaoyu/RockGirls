@@ -1,0 +1,66 @@
+1.642645, PlayerAction, MISS,HeadBanging,Score=-1
+2.837301, PlayerAction, MISS,HeadBanging,Score=-1
+4.081745, PlayerAction, MISS,HeadBanging,Score=-1
+5.575078, PlayerAction, MISS,HeadBanging,Score=-1
+5.973279, PlayerAction, MISS,HeadBanging,Score=-1
+6.421322, PlayerAction, MISS,HeadBanging,Score=-1
+6.819523, PlayerAction, MISS,HeadBanging,Score=-1
+7.217724, PlayerAction, MISS,HeadBanging,Score=-1
+7.615978, PlayerAction, MISS,HeadBanging,Score=-1
+9.905766, PlayerAction, MISS,HeadBanging,Score=-1
+10.35375, PlayerAction, MISS,HeadBanging,Score=-1
+10.80174, PlayerAction, MISS,HeadBanging,Score=-1
+12.09598, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+15.23196, PlayerAction, MISS,HeadBanging,Score=-1
+15.8791, PlayerAction,HIT BELOW GOOD,HeadBanging,Score=2
+16.42661, PlayerAction, MISS,HeadBanging,Score=-1
+16.92439, PlayerAction, MISS,HeadBanging,Score=-1
+17.32264, PlayerAction, MISS,HeadBanging,Score=-1
+17.67106, PlayerAction, MISS,HeadBanging,Score=-1
+17.96973, PlayerAction, MISS,HeadBanging,Score=-1
+18.26841, PlayerAction, MISS,HeadBanging,Score=-1
+20.15994, PlayerAction,HIT ABOVE GOOD,HeadBanging,Score=2
+23.99285, PlayerAction,HIT BELOW BEST,HeadBanging,Score=4
+28.02486, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+32.00708, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+36.08883, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+40.02132, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+44.05328, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+48.13507, PlayerAction,HIT ABOVE GOOD,HeadBanging,Score=2
+52.11729, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+55.99994, PlayerAction,HIT BELOW BEST,HeadBanging,Score=4
+59.98216, PlayerAction,HIT BELOW BEST,HeadBanging,Score=4
+62,IdealAction,,HeadBanging
+62.02306, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+64.11375, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+66.10486, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+68.1955, PlayerAction,HIT ABOVE GOOD,HeadBanging,Score=2
+70,IdealAction,,HeadBanging
+70.03729, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+72.0284, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+74.01952, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+75.06486, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+76.11021, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+78.10131, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+80.09242, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+82,IdealAction,,HeadBanging
+82.03375, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+84.07464, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+85.96617, PlayerAction,HIT BELOW BEST,HeadBanging,Score=4
+88.05687, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+89.99818, PlayerAction,HIT BELOW BEST,HeadBanging,Score=4
+91.9893, PlayerAction,HIT BELOW BEST,HeadBanging,Score=4
+96.07104, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+100.1528, PlayerAction,HIT ABOVE GOOD,HeadBanging,Score=2
+104.1849, PlayerAction,HIT ABOVE GOOD,HeadBanging,Score=2
+108.0675, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+112,IdealAction,,HeadBanging
+112.0497, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+116.0817, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+120,IdealAction,,HeadBanging
+120.0142, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+122,IdealAction,,HeadBanging
+122.0053, PlayerAction,HIT ABOVE BEST,HeadBanging,Score=4
+123.1502, PlayerAction,HIT ABOVE GOOD,HeadBanging,Score=2
+123.8471, PlayerAction,HIT BELOW GOOD,HeadBanging,Score=2
+125.9875, PlayerAction,HIT BELOW BEST,Jump,Score=4
